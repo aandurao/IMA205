@@ -1,0 +1,9 @@
+__MACOSX/
+__pycache__/
+.ipynb_checkpoints/
+/Cours/
+
+# Ignoring everything in Challenge folder but the notebook and the report
+Challenge/*
+!Challenge/Code_ANTOINE_ANDURAO.ipynb
+!Challenge/Report_ANTOINE_ANDURAO.pdf
