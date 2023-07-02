@@ -1,2 +1,2 @@
-# IMA205 - Labs & Challenge
-This repository is dedicated to the labs and the segmentation challenge of the course IMA205 from Télécom Paris.
+# IMA205 - ML for image and object recognition - Labs & Challenge
+This repository is dedicated to the labs and the segmentation challenge of the course IMA205 - ML for image and object recognition from Télécom Paris.
